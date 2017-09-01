@@ -1,12 +1,5 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: CSA Tetris Project Stage 1
+PURPOSE OF PROJECT: To learn how to manipulate objects to create Tetris shapes
+VERSION or DATE: 0.1
+HOW TO START THIS PROJECT: Open package.bluej with BlueJ. Run main() from GameLauncher.
+AUTHORS: demc
